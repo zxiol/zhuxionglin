@@ -4,9 +4,6 @@ import json
 from datetime import datetime
 import os
 
-  git config --global user.email "87793494@qq.com"
-  git config --global user.name "zxiol"
-
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
