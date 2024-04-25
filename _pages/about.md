@@ -38,7 +38,19 @@ I am a tenure-track associate professor at the Artificial Intelligence Research 
 
 **Runhao Zeng**, Xiaoyong Chen, Jiaming Liang, Huisi Wu, Guangzhong Cao, Yong Guo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:8k81kl-MbHgC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/ACMMM2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Motion Cues for Video Test-Time Adaptation](https://dl.acm.org/doi/abs/10.1145/3581783.3612153)
+
+**Runhao Zeng**, Qi Deng, Huixuan Xu, Shuaicheng Niu, Jian Chen
+
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:hqOjcs7Dif8C)
 
 </div>
 </div>
