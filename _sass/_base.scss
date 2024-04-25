@@ -285,23 +285,18 @@ svg:not(:root) {
  *    </ul>
  *  </nav>
  */
-
-<nav>
-    <ul>
-      <li><a href="#about-me">Link 1</a></li>
-      <li><a href="#link-2">Link 2</a></li>
-      <li><a href="#link-3">Link 3</a></li>
-    </ul>
-</nav>
-
 nav {
   ul {
     margin: 0;
     padding: 0;
+     
   }
 
   li {
     list-style: none;
+    <li><a href="#about-me">Link 1</a></li>
+    <li><a href="#link-2">Link 2</a></li>
+    <li><a href="#link-3">Link 3</a></li>
   }
 
   a {
