@@ -117,17 +117,25 @@ Mingkui Tan, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, **Ru
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Data & Software
+- [PGCN](https://github.com/Alvin-Zeng/PGCN), Temporal Action Localizaton.
+- [DRN](https://github.com/Alvin-Zeng/DRN), Video Grounding.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Experience
+- *2024.04 - present*, Associate Professor at Shenzhen MSU-BIT University
+- *2022.04 - 2024.03*, Assistant Professor at Shenzhen University
+- *2020.01 - 2021.01*, Research Intern at Pengcheng Laboratory
+- *2018.05 - 2018.11*, Research Intern at Tecent AI Lab
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Service
+- International Conference on Machine Learning (ICML)
+- Conference on Neural Information Processing Systems (NeurIPS)
+- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+- International Conference on Computer Vision (ICCV)
+- European Conference on Computer Vision (ECCV)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Multimedia (TMM)
