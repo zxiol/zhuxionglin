@@ -26,6 +26,8 @@ I am a tenure-track associate professor at the Artificial Intelligence Research 
 - **<span style="color: blue;">Visiting Students/TA Positions:</span>** Research opportunities with accommodation and stipend.
 - **<span style="color: blue;">Remote Interns:</span>** Weekly guidance meetings.
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - &nbsp;🎉🎉 Two papers on video analysis is accepted by <span style="color: red;">CVPR 2024 (1 oral (90 of the 2719 accepted papers) + 1 poster)</span>.
 - &nbsp;🎉🎉 One paper on vision-and-language navigatio is accepted by <span style="color: red;">NeurIPS 2023</span>.
@@ -34,6 +36,8 @@ I am a tenure-track associate professor at the Artificial Intelligence Research 
 - &nbsp;🎉🎉 One paper on vision-and-language navigation is accepted by <span style="color: red;">NeurIPS 2022</span>.
 - &nbsp;🎉🎉 I am serving as a reviewer for CVPR 2022, ICML 2022, ECCV 2022, NeurIPS 2022.
 - &nbsp;🎉🎉 One paper on action recognition is accepted by <span style="color: red;">TITS 2022</span>.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -121,15 +125,21 @@ Mingkui Tan, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, **Ru
 </div>
 </div>
 
+<span class='anchor' id='data-and-software'></span>
+
 # 💻 Data & Software
 - [PGCN](https://github.com/Alvin-Zeng/PGCN), Temporal Action Localizaton.
 - [DRN](https://github.com/Alvin-Zeng/DRN), Video Grounding.
+
+<span class='anchor' id='experience'></span>
 
 # 📖 Experience
 - *2024.04 - present*, Associate Professor at Shenzhen MSU-BIT University
 - *2022.04 - 2024.03*, Assistant Professor at Shenzhen University
 - *2020.01 - 2021.01*, Research Intern at Pengcheng Laboratory
 - *2018.05 - 2018.11*, Research Intern at Tecent AI Lab
+
+<span class='anchor' id='service'></span>
 
 # 💬 Service
 **Conference Program Committee**
