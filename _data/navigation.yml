@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about"
+    url: "/zhuxionglin/#about"
 
   - title: "Research Opportunities"
-    url: "/#research-opportunities"
+    url: "/zhuxionglin/#research-opportunities"
 
   - title: "News"
-    url: "/#-news"
+    url: "/zhuxionglin/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/zhuxionglin/#publications"
 
   - title: "Data and Software"
-    url: "/#-data-and-software"
+    url: "/zhuxionglin/#data-and-software"
 
   - title: "Experience"
-    url: "/#-experience"
+    url: "/zhuxionglin/#experience"
 
   - title: "Service"
-    url: "/#-invited-talks"
+    url: "/zhuxionglin/#invited-talks"
