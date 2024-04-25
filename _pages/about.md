@@ -55,6 +55,66 @@ I am a tenure-track associate professor at the Artificial Intelligence Research 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/TITS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bidirectional Posture-Appearance Interaction Network for Driver Behavior Recognition](https://ieeexplore.ieee.org/abstract/document/9600603/)
+
+Mingkui Tan, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, **Runhao Zeng**
+
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:LkGwnXOMwfcC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2021</div><img src='images/TPAMI2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Convolutional Module for Temporal Action Localization in Videos](https://arxiv.org/pdf/2112.00302.pdf)
+
+**Runhao Zeng**, Wenbing Huang, Mingkui Tan, Yu Rong, Peilin Zhao, Junzhou Huang, Chuang Gan
+
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:_FxGoFyzp5QC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dense Regression Network For Video Grounding](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zeng_Dense_Regression_Network_for_Video_Grounding_CVPR_2020_paper.pdf)
+
+**Runhao Zeng**, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan
+
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:Y0pCki6q_DkC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/ICCV2019.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Convolutional Networks for Temporal Action Localization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Graph_Convolutional_Networks_for_Temporal_Action_Localization_ICCV_2019_paper.pdf)
+
+**Runhao Zeng**, Wenbing Huang, Mingkui Tan, Yu Rong, Peilin Zhao, Junzhou Huang, Chuang Gan
+
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:UeHWp8X0CEIC)<strong><span class='show_paper_citations' data='s3X4YHwAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2019</div><img src='images/TIP2019.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization](https://drive.google.com/file/d/17_NTO4CkXnIMNGKnMGlfF5b_aaRYKkni/view)
+
+**Runhao Zeng**, Chuang Gan, Peihao Chen, Wenbing Huang, Qingyao Wu, Mingkui Tan
+
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:9yKSN-GCB0IC)
+
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
