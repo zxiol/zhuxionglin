@@ -19,6 +19,8 @@ redirect_from:
 
 I am a tenure-track associate professor at the Artificial Intelligence Research Institute of Shenzhen MSU-BIT University, China. I received my Bachelor’s Degree in Automation in 2015 and my Ph.D. in Software Engineering in 2021, both from the South China University of Technology, under the supervision of Prof. Mingkui Tan and Dr. Chuang Gan. My research interests span machine learning and deep learning with a focus on their applications in video understanding and AI+Health. I have a particular interest in the multimodal information-based assessment and analysis of health, mental, and psychological states. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com.sg/citations?user=s3X4YHwAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1400+</span></strong></a>.
 
+<span class='anchor' id='research-opportunities'></span>
+
 # ✨ Research Opportunities
 - **<span style="color: blue;">Master's & PhD Students:</span>** At Computer Science Department, Beijing Institute of Technology.
 - **<span style="color: blue;">Visiting Students/TA Positions:</span>** Research opportunities with accommodation and stipend.
