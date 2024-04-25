@@ -119,8 +119,6 @@ Mingkui Tan, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, **Ru
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 💻 Data & Software
 - [PGCN](https://github.com/Alvin-Zeng/PGCN), Temporal Action Localizaton.
 - [DRN](https://github.com/Alvin-Zeng/DRN), Video Grounding.
