@@ -86,7 +86,7 @@ Mingkui Tan, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, **Ru
 
 **Runhao Zeng**, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan
 
-[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:Y0pCki6q_DkC)
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=s3X4YHwAAAAJ&citation_for_view=s3X4YHwAAAAJ:Y0pCki6q_DkC)<strong><span class='show_paper_citations' data='s3X4YHwAAAAJ:Y0pCki6q_DkC'></span></strong>
 
 </div>
 </div>
