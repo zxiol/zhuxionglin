@@ -19,15 +19,19 @@ redirect_from:
 
 I am a tenure-track associate professor at the Artificial Intelligence Research Institute of Shenzhen MSU-BIT University, China. I received my Bachelor’s Degree in Automation in 2015 and my Ph.D. in Software Engineering in 2021, both from the South China University of Technology, under the supervision of Prof. Mingkui Tan and Dr. Chuang Gan. My research interests span machine learning and deep learning with a focus on their applications in video understanding and AI+Health. I have a particular interest in the multimodal information-based assessment and analysis of health, mental, and psychological states. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com.sg/citations?user=s3X4YHwAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1400+</span></strong></a>.
 
+# 🔥 Research Opportunities
+- **<span style="color: blue;">Master's & PhD Students:</span>** At Computer Science Department, Beijing Institute of Technology.
+- **<span style="color: blue;">Visiting Students/TA Positions:</span>** Research opportunities with accommodation and stipend.
+- **<span style="color: blue;">Remote Interns:</span>** Weekly guidance meetings.
 
 # 🔥 News
-- &nbsp;🎉🎉 Two papers on video analysis is accepted by CVPR 2024 (1 oral (90 of the 2719 accepted papers) + 1 poster).
-- &nbsp;🎉🎉 One paper on vision-and-language navigatio is accepted by NeurIPS 2023.
-- &nbsp;🎉🎉 One paper on video test-time adaptation is accepted by ACM MM 2023.
+- &nbsp;🎉🎉 Two papers on video analysis is accepted by <span style="color: red;">CVPR 2024 (1 oral (90 of the 2719 accepted papers) + 1 poster)</span>.
+- &nbsp;🎉🎉 One paper on vision-and-language navigatio is accepted by <span style="color: red;">NeurIPS 2023</span>.
+- &nbsp;🎉🎉 One paper on video test-time adaptation is accepted by <span style="color: red;">ACM MM 2023</span>.
 - &nbsp;🎉🎉 I am serving as a reviewer for CVPR 2023, ICCV 2023, NeurIPS 2023.
-- &nbsp;🎉🎉 One paper on vision-and-language navigation is accepted by NeurIPS 2022.
+- &nbsp;🎉🎉 One paper on vision-and-language navigation is accepted by <span style="color: red;">NeurIPS 2022</span>.
 - &nbsp;🎉🎉 I am serving as a reviewer for CVPR 2022, ICML 2022, ECCV 2022, NeurIPS 2022.
-- &nbsp;🎉🎉 One paper on action recognition is accepted by TITS 2022.
+- &nbsp;🎉🎉 One paper on action recognition is accepted by <span style="color: red;">TITS 2022</span>.
 
 # 📝 Publications 
 
