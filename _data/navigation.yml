@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Research Opportunities"
-    url: "/#Research-Opportunities"
+    url: "/#research-opportunities"
 
   - title: "News"
     url: "/#-news"
@@ -12,11 +12,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Data & Software"
-    url: "/#-honors-and-awards"
+  - title: "Data and Software"
+    url: "/#-data-and-software"
 
   - title: "Experience"
-    url: "/#-educations"
+    url: "/#-experience"
 
   - title: "Service"
     url: "/#-invited-talks"
