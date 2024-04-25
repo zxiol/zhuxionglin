@@ -128,13 +128,14 @@ Mingkui Tan, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, **Ru
 - *2018.05 - 2018.11*, Research Intern at Tecent AI Lab
 
 # 💬 Service
+**Conference Program Committee**
 - International Conference on Machine Learning (ICML)
 - Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
 - International Conference on Computer Vision (ICCV)
 - European Conference on Computer Vision (ECCV)
 
-# 💻 Internships
+**Journal Reviewer**
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
