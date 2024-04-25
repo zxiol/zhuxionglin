@@ -55,7 +55,7 @@ I am a tenure-track associate professor at the Artificial Intelligence Research 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/TITS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/TITS2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bidirectional Posture-Appearance Interaction Network for Driver Behavior Recognition](https://ieeexplore.ieee.org/abstract/document/9600603/)
